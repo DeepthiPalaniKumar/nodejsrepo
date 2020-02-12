@@ -1,14 +1,15 @@
 {
-  "name": "nodejs-web-app2",
-  "version": "0.0.0",
-  "description": "NodejsWebApp2",
-  "scripts": {
-    "start": "node server"
-  },
-  "engines": {
-    "node": "~6.10.x"
-  },
-  "author": {
-    "name": ""
-  }
+"name" : "simpleNoeProj",
+"version": "1.0.0",
+"description":"",
+"main":"index.js",
+"scripts":{
+	"start":"lite-server"
+},
+"keywords":[],
+"author":"",
+"license":ISC",
+"devDependencies":{
+	"lite-server": "^2.5.3"
+}
 }
